@@ -10,3 +10,11 @@ The objective of this dashboard project is to analyze Walmart’s sales performa
 - Which product category (Technology, Furniture, Office Supplies) generates the highest share of sales?
 - How has yearly profit changed from 2014 to 2018?
 - Which segment shows the strongest growth trend over the years?
+## process
+- Data Collection & Import
+- Data Cleaning & Preparation
+- Data Modeling & KPI Definition
+- Dashboard Design & Visualization
+- Formatting & UI Enhancement
+- Dashboard Testing & Validation
+- Final Deployment
