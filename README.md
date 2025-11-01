@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-Developed an interactive Walmart Sales Dashboard showcasing state-wise sales, segment performance, category distribution, and year-wise profit trends using map, bar, line, and pie visualizations for quick business insights.
+# Walmart Sales Dashboard Analysis (Interactive Dashboard creation using Tableau
+## Project Objective
+The objective of this dashboard project is to analyze Walmart’s sales performance across states and customer segments by visualizing key metrics such as sales, profit, and category distribution, enabling data-driven insights for strategic decision-making.
